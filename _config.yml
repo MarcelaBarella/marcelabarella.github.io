@@ -7,8 +7,8 @@ words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/saturno.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://taylantatli.github.io/Moon
+locale:             pt_BR
+url:                https://marcelabarella.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -26,8 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
-
+disqus_shortname:   
 # Social
 # if you don't have any of social below, comment the line.
 #google:
@@ -50,7 +49,7 @@ instagram:          marcelabarella
 medium:            '@marcelabarella'
 #pinterest:         username
 #foursquare:        username
-steam:              Barella
+steam:              marcelabarellaxd
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
